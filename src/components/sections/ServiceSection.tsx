@@ -6,24 +6,24 @@ function ServiceSection() {
   const serviceData = [
     {
       id: 0,
-      iconUrl: "/images/activity_icon.png",
-      title: "Graphic Design",
+      iconUrl: "/images/game-development.jpg",
+      title: "Game Development",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dui mi, bibendum eu erat id, ultricies semper metus. Nunc dapibus laoreet dolor nec imperdiet.",
+        "Questivox labs specializes in creating interactive and immersive games across various platforms, including mobile, console, and PC. We offer a wide range of services, such as game design, coding,  modeling, animation, and sound design.",
     },
     {
       id: 1,
-      iconUrl: "/images/video_icon.png",
-      title: "Video Editing",
+      iconUrl: "/images/App-development.jpg",
+      title: "App Development",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dui mi, bibendum eu erat id, ultricies semper metus. Nunc dapibus laoreet dolor nec imperdiet.",
+        "Questivox labs specializes in designing and building custom mobile and web applications for businesses and individuals. We offer end-to-end services, including UI/UX design, front-end and back-end development, testing, and app deployment.",
     },
     {
       id: 2,
-      iconUrl: "/images/chart_icon.png",
-      title: "Digital Marketing",
+      iconUrl: "/images/Web-development.jpg",
+      title: "Web Development",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dui mi, bibendum eu erat id, ultricies semper metus. Nunc dapibus laoreet dolor nec imperdiet.",
+        "Questivox labs specializes in creating and maintaining websites, web applications, and online platforms for businesses and individuals. We offer a range of services, including front-end and back-end development, web design, e-commerce solutions, and content management systems (CMS) integration. ",
     },
   ];
   return (

@@ -35,7 +35,7 @@ function TestimonialSection() {
   ];
   return (
     <section className="mt-[9rem]">
-      <Header title="testimonials" subtitle="What Clients say about us" />
+      {/* <Header title="testimonials" subtitle="What Clients say about us" />
       <div className="grid grid-cols-1 gap-16  md:grid-cols-2 mt-8 md:mt-[6.75rem]">
         {appReviewData.map((review) => (
           <TestimonialCard
@@ -45,7 +45,7 @@ function TestimonialSection() {
             reviewerName={review.reviewerName}
           />
         ))}
-      </div>
+      </div> */}
     </section>
   );
 }

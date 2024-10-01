@@ -4,7 +4,7 @@ import MainButton from "../common/MainButton";
 function VideoPlayerSection() {
   return (
     <section className="flex flex-col md:flex-row justify-between items-center gap-8 mt-[11.31rem]">
-      <div>
+      {/* <div>
         <p className="text-lightBlue font-bold text-2xl ">
           Many Blocks and Components
         </p>
@@ -19,7 +19,7 @@ function VideoPlayerSection() {
       </div>
       <div>
         <img src="/images/video_player.png" alt="video player" />
-      </div>
+      </div> */}
     </section>
   );
 }

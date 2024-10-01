@@ -12,13 +12,13 @@ function HeroSection() {
           Our goal is top at the heart of creativity services industry as a
           digital creator. In has a after comment
         </p>
-        <div className="flex gap-[1.75rem] items-center mt-[3rem]">
+        {/* <div className="flex gap-[1.75rem] items-center mt-[3rem]">
           <MainButton text="Get Started" classes="shadow-none w-[10.125rem]" />
           <div className="flex gap-[1.56rem] items-center">
             <img src="/images/fancy_play_icon.png" alt="play icon" />
             <p className="font-bold text-normal">Learn More</p>
           </div>
-        </div>
+        </div> */}
       </div>
       <div>
         <img

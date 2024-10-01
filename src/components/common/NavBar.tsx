@@ -14,10 +14,11 @@ function NavBar() {
     <div className="md:sticky md:top-0   md:shadow-none z-20 ">
       {/* DESKTOP */}
       <div className=" hidden lg:block animate-in fade-in zoom-in bg-white p-4">
-        <div className="flex justify-between md:mx-[9rem] items-center">
-          <div>
-            <img src="/images/epixelap_logo.png" alt="logo" />
-          </div>
+        <div>
+          <img src="/images/questivox-logo.png" alt="logo" width={200} />
+        </div>
+        {/* <div className="flex justify-between md:mx-[9rem] items-center">
+          
           <div className="flex gap-[20px] xl:gap-[50px] text-[16px] items-center select-none">
             <p
               className={`hover:text-primary cursor-pointer flex items-center gap-2  font-[500] text-gray`}
@@ -48,7 +49,7 @@ function NavBar() {
             </p>
             <MainButton text="Sign up" classes="shadow-none" />
           </div>
-        </div>
+        </div> */}
       </div>
       {/* MOBILE */}
       <div
