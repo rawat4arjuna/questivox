@@ -6,7 +6,7 @@ import MainButton from "../common/MainButton";
 function NewsletterSection() {
   return (
     <section className="mt-[9rem]">
-      <Header title="Our newsletter" subtitle="Subscribe Our Newsleter" />
+      <Header title="Our newsletter" subtitle="Subscribe Our Newsletter" />
       <div className="flex flex-col md:flex-row  items-center mt-8 md:mt-[3.31rem]">
         <div>
           <img
